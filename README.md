@@ -1,13 +1,9 @@
 # Tab of Contents
 
 ## Clean Code
-<ol>
-  <li>Nomenclaturas</li>
-  <li>Funções</li>
-  <li>Comentários</li>
-  <li>Uso do Return</li>
-  <li>Encapsulamento de Funções</li>
-</ol>
+
+1. [Nomenclaturas](clean-code/nomenclaturas/README.md)
+2. [Funções]()
 
 ## Examples (COMING SOON)
 
