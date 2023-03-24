@@ -1,4 +1,6 @@
-# Nomenclaturas [**<div style="font-size:12px; float: right; height:40px; display: flex; align-items:center">Voltar</div>**](../../README.md)
+# Nomenclaturas
+
+[**<div style="font-size:12px;">Voltar</div>**](../../README.md)
 
 Sabemos que o ADVPL possui como característica uma limitação quanto a nomenclatura de variáveis e funções (limitação essa que caiu com o surgimento do TLPP). Todavia, o objetivo desse tópico está em abordarmos o uso do Clean Code deixo aqui algumas dicas que sigo ao decorrer de desenvolvimentos (não se trata de um padrão convencional da TOTVS):
 

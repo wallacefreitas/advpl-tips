@@ -1,4 +1,6 @@
-# Uso do Return [**<div style="font-size:12px; float: right; height:40px; display: flex; align-items:center">Voltar</div>**](../../README.md)
+# Uso do Return
+
+[**<div style="font-size:12px;">Voltar</div>**](../../README.md)
 
 Todo programa deve ter apenas um início e um fim, e com o AdvPL não é diferente. Prefira variáveis de controle a inserir Return no meio do código fonte e correr o risco de deixar de executar uma função importante para a rotina.
 

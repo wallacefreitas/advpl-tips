@@ -1,4 +1,6 @@
-# Funções [**<div style="font-size:12px; float: right; height:40px; display: flex; align-items:center">Voltar</div>**](../../README.md)
+# Funções
+
+[**<div style="font-size:12px;">Voltar</div>**](../../README.md)
 
 ### **Parâmetros**
 
