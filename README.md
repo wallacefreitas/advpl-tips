@@ -5,7 +5,7 @@
 1. [Nomenclaturas](clean-code/nomenclaturas/README.md)
 2. [Funções](clean-code/funcoes/README.md)
 3. [Comentários](clean-code/comentarios/README.md)
-4. [Uso do Return]()
+4. [Uso do Return](clean-code/uso-return/README.md)
 5. [Encapsulamento de Funções]()
 6. [Funções DB]()
 7. [Uso do Escopo Default]()
