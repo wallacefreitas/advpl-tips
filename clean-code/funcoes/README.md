@@ -1,6 +1,6 @@
 # Funções
 
-[**<div style="font-size:12px;">Voltar</div>**](../../README.md)
+[Voltar](../../README.md)
 
 ### **Parâmetros**
 

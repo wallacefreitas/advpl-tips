@@ -1,6 +1,6 @@
 # Comentários
 
-[**<div style="font-size:12px;">Voltar</div>**](../../README.md)
+[Voltar](../../README.md)
 
 Uma função bem escrita deve ser autoexplicativa, ou seja, não necessita de muitos comentários. Lembrem-se, se uma função foi possui muitos comentários está na hora de revisa-la.
 
