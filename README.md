@@ -22,4 +22,4 @@ Com isso gostaria de compartilhar com todos o que venho aprendendo e espero que 
 
 # Author
 
-Este artigo foi desenvolvidor com ❤️ por [Wallace de Freitas](https://github.com/wallacefreitas)
+Este artigo foi desenvolvido com ❤️ por [Wallace de Freitas](https://github.com/wallacefreitas)
