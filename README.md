@@ -12,13 +12,14 @@ Com isso gostaria de compartilhar com todos o que venho aprendendo e espero que 
 4. [Uso do Return](clean-code/uso-return/README.md)
 5. [Encapsulamento de Funções](clean-code/encapsulamento-funcoes/README.md)
 6. [Funções DB]()
-7. [Uso do Escopo Default]()
-8. [Declaração de Variáveis]()
-9. [Valores Mágicos]()
-10. [Pontos de Entrada]()
-11. [Uso do Else]()
-12. [Comparativo]()
-13. [Dicas Bônus]()
+7. [dbSeek x msSeek]()
+8. [Uso do Escopo Default]()
+9. [Declaração de Variáveis]()
+10. [Valores Mágicos]()
+11. [Pontos de Entrada]()
+12. [Uso do Else]()
+13. [Comparativo]()
+14. [Dicas Bônus]()
 
 # Author
 
