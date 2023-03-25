@@ -11,7 +11,7 @@ Com isso gostaria de compartilhar com todos o que venho aprendendo e espero que 
 3. [Comentários](clean-code/comentarios/README.md)
 4. [Uso do Return](clean-code/uso-return/README.md)
 5. [Encapsulamento de Funções](clean-code/encapsulamento-funcoes/README.md)
-6. [Funções DB]()
+6. [Funções DB](clean-code/funcoes-db/README.md)
 7. [dbSeek x msSeek]()
 8. [Uso do Escopo Default]()
 9. [Declaração de Variáveis]()
