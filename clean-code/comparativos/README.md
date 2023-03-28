@@ -1,5 +1,7 @@
 # Comparativo
 
+[Voltar](../../README.md)
+
 No AdvPL temos dois tipos de comparativos: o “=” (igual) e o “==” (exatamente igual). Não recomendo o uso do primeiro pois em alguns casos de comparação de strings podemos ter um falso positivo (parcialmente verdadeiro).
 
 ![](assets/images/comparativo.png)

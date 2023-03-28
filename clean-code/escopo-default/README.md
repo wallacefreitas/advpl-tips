@@ -1,5 +1,7 @@
 # Escopo Default
 
+[Voltar](../../README.md)
+
 Para variáveis passadas por parâmetro, use e abuse do default, isso te poupará tempo identificando problemas de variáveis que não foram passadas por parâmetro ocasionando em erros de tipagem.
 
 ![](assets/images/funcao_sem_default.png)
