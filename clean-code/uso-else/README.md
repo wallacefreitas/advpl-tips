@@ -1,4 +1,6 @@
-# Else
+# Uso do Else
+
+[Voltar](../../README.md)
 
 O uso excessivo do Else também pode trazer complexidade desnecessária ao código.
 

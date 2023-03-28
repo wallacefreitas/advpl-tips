@@ -1,5 +1,7 @@
 # Funções DB
 
+[Voltar](../../README.md)
+
 Para funções _db_ segue uma série de recomendações:
 
 1. Para todo dbSelectArea, utilizar um _dbCloseArea_ a fim de evitar estouro de memória devido a quantidade máxima de áreas em aberto (1024).

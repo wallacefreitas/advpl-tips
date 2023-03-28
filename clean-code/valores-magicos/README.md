@@ -1,4 +1,4 @@
-# Evite valores mágicos
+# Valores mágicos
 
 [Voltar](../../README.md)
 
