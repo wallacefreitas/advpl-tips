@@ -20,7 +20,8 @@ Com isso gostaria de compartilhar com todos o que venho aprendendo e espero que 
 12. [Uso do Else](clean-code/uso-else/README.md)
 13. [Comparativo](clean-code/comparativos/README.md)
 14. [Liga/Desliga](clean-code/liga-desliga/README.md)
-15. [Dicas Bônus](clean-code/bonus/README.md)
+15. [InMemoryTest](clean-code/inmemorytest/README.md)
+16. [Dicas Bônus](clean-code/bonus/README.md)
 
 # Author
 
