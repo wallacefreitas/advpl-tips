@@ -2,7 +2,7 @@
 
 O objetivo desse repositório é auxiliar desenvolvedores AdvPL a escreverem códigos mais legíveis por meio da técnica do Clean Code, adaptado a realidade do AdvPL.
 Esses itens **não** se tratam de padrões estabelecidos pela TOTVS, e sim em metodologias que me baseio para desenvolver minhas melhorias.
-Com isso gostaria de compartilhar com todos o que venho aprendendo e espero que seja de serventia aos demais.
+Com isso gostaria de compartilhar com todos o que venho aprendendo e espero que seja de apoio aos demais.
 
 # Summary
 
